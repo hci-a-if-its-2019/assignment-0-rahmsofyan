@@ -108,28 +108,35 @@ and data will added after success registered,give edit function if user want to 
 ### Link
 [ehealth.surabaya.go.id](https://ehealth.surabaya.go.id)
 ### Description
-Ehealth is website that maintenance by city Goverment of Surabaya,
-it give online registration service for public that stay in Surabaya.The interasing thing from this website is provides 3
-language : Indonesia,Jawa,and Madura ,furthermore it give voice for user guidelines in 3 language ,like calling customer
+![Ehealth mobile](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233main_mobile.PNG)
+![Ehealth mobile](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233main.PNG)
+Ehealth is website that maintenance by city goverment of Surabaya,it give online registration service for public that stay in 
+Surabaya.The interasing thing from this website is provides 3 language : Indonesia,Jawa,and Madura ,furthermore it give voice for user guidelines in 3 language ,like calling customer
 service,it's creative idea.
 
 ### Bad UI Analysis and Design Proposal
 #### #Welcoming by to select language
+![Ehealth bad1](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233main.PNG)
 When arrive in landing page,Firstly users must select language to choose how service will accompany.
 How important a language in city that majority people had known about national language,it's not enough good
 to give language option in landing page.Except if in Surabaya City there are tight difference,particularly in language use in society.But 3 language feature is still good idea,its craetive idea to make public feel fun.
 
-`Landing page must give genaral information about this website,
-or guidelines how to users use it or straight to purpose.
+`Landing page must give genaral information about this website,or guidelines how to users use it or straight to purpose.
 Language option can attach in side or bottom website,that viewable for users.`
 
 #### #Voice cannot mute or stop
+![Ehealth bad2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233bad3.PNG)
 It's is creative idea to make guidelines as voice,Voice will play when users enter new page.Users that often use site can easily
 to get what they need,no need again guidelines, voice will annoy users if it speaker cannot be stop or mute.
 
 `add mute and stop button to pause voice.`
 
 #### #Step to Registration,from difference to same option
+![Ehealth bad2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233bad1.1.PNG)
+![Ehealth bad2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233bad1.2.PNG)
+![Ehealth bad2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233bad1.3.PNG)
+![Ehealth bad2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233bad1.4.PNG)
+![Ehealth bad2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233bad1.5.PNG)
 After select language, users will direct to new page that give options  to select "Rumah Sakit" or puskesmas,after that users 
 will direct again to select where is place ("Rumah sakit" or "Puskesmas" that had selected before) locations among few of
 them,until the page that give same option despite difference selected before.It will cause many branch of page,effect in hight
@@ -145,12 +152,14 @@ by users.
 left side of website.`
 
 #### #Print queue ticket and Cencel queue in last registration page
+![Ehealth bad2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233bad1.4.PNG)
 If Users want to print ticket or cencel their queue ,they must enter registration mechanism to reach last page of registration,
 to get that feature,it's not structured and will make difficult user.
 
 `Move print queue ticket and cencel queue to landing page together registration feature.`
 
 #### #Input what queue data
+![Ehealth bad2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233bad2.PNG)
 When users want to print ticket or cencel queue they must find their data first. Maybe, the right title is not "cari data antrian" but "masukan nomer antrian" ,"cari" close means to search somethings missing, but there is no missing,users have their data. And "data antrian"/queue data is too general, is not exactly what need to insert.
 
 `Change "Cari" to "Input" ,it's maybe more proper meaning. And "Data" to "nomer or id" that exact meaning to make users ligt catch what site intention.`
