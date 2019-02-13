@@ -11,7 +11,7 @@ Analysis : 3 Bad Design UI Examples
 [bappeko.surabaya.go.id/musrenbang2019](bappeko.surabaya.go.id/musrenbang2019)
 ### Description
 Musrenbang2019 ,site which display list subimitted proposal for development planning discussion by
-City Goverment of Surabaya ,and maintance by this local institution.
+city goverment of Surabaya ,and maintenance by this local institution.
 Proposals which will discuss in that forum is from surabaya people. They can watching over about all proposals that had been submitted to goverment , and keep their eye upon their proposal actualization.
 Main of this site is display proposals in tables that consist of no,name of proposals "usulan fisik/non fisik" ,budget "Plafon Anggaran", unit "satuan". Another feature is administator's feature which can only access by their institution  team.
 ### Bad UI Analysis and Design Proposal
@@ -49,7 +49,7 @@ In Navigation Menu,"Rekap Musrenbang" button,there no appropriate relation betwe
 
 Almost same case before,there no appropriate relation between menu button name and what page talking about. "Kamus Usulan" means proposal dictionary,is maybe close meaning to how proposal will explained,but the page concern is for searching proposal with filter.
 
-`give appropriate icon for menu name section, and name for page.`
+`Give appropriate icon for menu name section, and name for page.`
 
 #### # Admin Login in public purpose
 ![Musrenbang 2019](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%231%20Musrenbang/%231bad5.PNG)
@@ -73,7 +73,7 @@ register for changing citizenship ,and modify registered application.Addition fe
 When arrive in landing page,and focus in headbar ,we can see title
 of website with blue background,so we know what purpose of this website,and there name of institution in bottom of,that identified what institution which responsible. Tittle and name of institution is good enough to give information about what site for and who have, but it's not good enough to trust that this site is maintenance by goverment.
 
-`need logo of instituion which responsible`
+`Need logo of instituion which responsible`
 
 #### #Dispute between menu and headbar color
 headbar color is blue,whereas menu color is brown ,two diffences color is not good enough to combinate in users view and too contrast.
@@ -99,7 +99,7 @@ bacuse table seem as form,but it's not.
 And button "simpan" in bottom of data collection table have grey almost black color such had clicked. 
 
 
-`change table of registered data into simple form like as a box that only have important data display to indicate what data is,
+`Change table of registered data into simple form like as a box that only have important data display to indicate what data is,
 and data will added after success registered,give edit function if user want to modify their data any time. Change color of button "simpan" to bright color ,like grey almost white.`
 
 
@@ -129,7 +129,7 @@ Language option can attach in side or bottom website,that viewable for users.`
 It's is creative idea to make guidelines as voice,Voice will play when users enter new page.Users that often use site can easily
 to get what they need,no need again guidelines, voice will annoy users if it speaker cannot be stop or mute.
 
-`add mute and stop button to pause voice.`
+`Add mute and stop button to pause voice.`
 
 #### #Step to Registration,from difference to same option
 ![Ehealth bad2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233bad1.1.PNG)
