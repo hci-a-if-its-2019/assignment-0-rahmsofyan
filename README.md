@@ -91,11 +91,8 @@ bacuse table seem as form,but it's not.
 And button "simpan" in bottom of data collection table have grey almost black color such had clicked. 
 
 
-`change table of registered data into simple form like as a box 
-that only have important data display to indicate what data is,
-and data will added after success registered,give edit function if user want to modify their data any time
-
-change color of button "simpan" to bright color ,like grey almost white.`
+`change table of registered data into simple form like as a box that only have important data display to indicate what data is,
+and data will added after success registered,give edit function if user want to modify their data any time change color of button "simpan" to bright color ,like grey almost white.`
 
 
 ***
