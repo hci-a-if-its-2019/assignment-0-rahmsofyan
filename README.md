@@ -109,14 +109,14 @@ and data will added after success registered,give edit function if user want to 
 [ehealth.surabaya.go.id](https://ehealth.surabaya.go.id)
 ### Description
 ![Ehealth mobile](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233main_mobile.PNG)
-![Ehealth mobile](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233main.PNG)
+![Ehealth mobile](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233Main.PNG)
 Ehealth is website that maintenance by city goverment of Surabaya,it give online registration service for public that stay in 
 Surabaya.The interasing thing from this website is provides 3 language : Indonesia,Jawa,and Madura ,furthermore it give voice for user guidelines in 3 language ,like calling customer
 service,it's creative idea.
 
 ### Bad UI Analysis and Design Proposal
 #### #Welcoming by to select language
-![Ehealth bad1](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233main.PNG)
+![Ehealth bad1](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233Main.PNG)
 When arrive in landing page,Firstly users must select language to choose how service will accompany.
 How important a language in city that majority people had known about national language,it's not enough good
 to give language option in landing page.Except if in Surabaya City there are tight difference,particularly in language use in society.But 3 language feature is still good idea,its craetive idea to make public feel fun.
