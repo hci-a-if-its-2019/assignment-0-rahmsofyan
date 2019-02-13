@@ -45,7 +45,7 @@ Change button mode which state before to ordinary text with bold type, it can ma
 ![Musrenbang 2019](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%231%20Musrenbang/%231bad4.1.PNG)
 ![Musrenbang 2019](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%231%20Musrenbang/%231bad4.PNG)
 
-In Navigation Menu,"Rekap Musrenbang" button,there no appropriate relation between icon and it's menu button name. "Rekap Musrenbang" means "Musrenbang" recapitulation ,is close meaning to collection ,but its icon is close meaning to conversation.
+In Navigation Menu,"Rekap Musrenbang" button,there no appropriate relation between icon and its menu button name. "Rekap Musrenbang" means "Musrenbang" recapitulation ,is close meaning to collection ,but its icon is close meaning to conversation.
 
 Almost same case before,there no appropriate relation between menu button name and what page talking about. "Kamus Usulan" means proposal dictionary,is maybe close meaning to how proposal will explained,but the page concern is for searching proposal with filter.
 
@@ -53,7 +53,7 @@ Almost same case before,there no appropriate relation between menu button name a
 
 #### # Admin Login in public purpose
 ![Musrenbang 2019](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%231%20Musrenbang/%231bad5.PNG)
-When arrive in home page users will welcome by greeting from institution and login menu for admin.
+When arrive in home page, users will welcome by greeting from institution and login menu for admin.
 
 `Need separate page between public users and admin user. Public users are most number than admin user,so public must presidence over.Moreover login menu for admin placed in different website for public use.`
 
@@ -66,9 +66,9 @@ When arrive in home page users will welcome by greeting from institution and log
 ![Dispenduk](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%232%20Dispenduk/%232main.PNG)
 Pencatatan Pindah Keluar WNI is site that provides application service for changing citizenship ,
 maintenance by city goverment of Surabaya. Application service is implemented in two features,
-register for changing citizenship ,and modify registered application.Addition feature ,site can print registered proof.
+register for changing citizenship ,and modify registered application.Addition feature ,site can print registration proof.
 ### Bad UI Analysis and Design Proposal
-#### #Not look formal as formal institutin website
+#### #Not look formal enough as formal institutin website
 ![Dispenduk](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%232%20Dispenduk/%232main.PNG)
 When arrive in landing page,and focus in headbar ,we can see title
 of website with blue background,so we know what purpose of this website,and there name of institution in bottom of,that identified what institution which responsible. Tittle and name of institution is good enough to give information about what site for and who have, but it's not good enough to trust that this site is maintenance by goverment.
@@ -137,9 +137,9 @@ to get what they need,no need again guidelines, voice will annoy users if it spe
 ![Ehealth bad2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233bad1.3.PNG)
 ![Ehealth bad2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233bad1.4.PNG)
 ![Ehealth bad2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233bad1.5.PNG)
-After select language, users will direct to new page that give options  to select "Rumah Sakit" or puskesmas,after that users 
+After select language, users will direct to new page that give options  to select "Rumah Sakit" or "puskesmas",after that users 
 will direct again to select where is place ("Rumah sakit" or "Puskesmas" that had selected before) locations among few of
-them,until the page that give same option despite difference selected before.It will cause many branch of page,effect in hight
+them,until the page that give same option despite selected difference option before.It will cause many branch of page,effect in hight
 resource cost ,and users will start from first page if they not intentionly take wrong choice.
 
 `Make step registration from same option to difference option.`
@@ -153,13 +153,15 @@ left side of website.`
 
 #### #Print queue ticket and Cencel queue in last registration page
 ![Ehealth bad2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233bad1.4.PNG)
-If Users want to print ticket or cencel their queue ,they must enter registration mechanism to reach last page of registration,
+If Users want to print ticket or cencel their queue ,they must enter into registration mechanism to reach last page of registration,
 to get that feature,it's not structured and will make difficult user.
 
 `Move print queue ticket and cencel queue to landing page together registration feature.`
 
 #### #Input what queue data
 ![Ehealth bad2](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%233%20Ehealth/%233bad2.PNG)
-When users want to print ticket or cencel queue they must find their data first. Maybe, the right title is not "cari data antrian" but "masukan nomer antrian" ,"cari" close means to search somethings missing, but there is no missing,users have their data. And "data antrian"/queue data is too general, is not exactly what need to insert.
+When users want to print ticket or cencel queue they must find their data first. Maybe, the right title is not "cari data
+antrian" but "masukan nomer antrian" ,"cari" close means to search somethings missing, but there is no missing,users have their
+data. And "data antrian"/queue data is too general, is not exactly what need to insert.
 
 `Change "Cari" to "Input" ,it's maybe more proper meaning. And "Data" to "nomer or id" that exact meaning to make users light catch what site intention.`
