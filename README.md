@@ -1,3 +1,6 @@
+> Rahma Sofyantoro \
+> 05111640000117 \
+> IHC A 
 
 # Assigment 0
 Analysis : 3 Bad Design UI Examples
@@ -58,13 +61,15 @@ When arrive in home page users will welcome by greeting from institution and log
 ***
 ## 2.Pencatatan Pindah Keluar WNI
 ### Link
-[dispendukcapil.surabaya.go.id/pindah_datang/edit_pindah.php](dispendukcapil.surabaya.go.id/pindah_datang/edit_pindah.php)
+[dispendukcapil.surabaya.go.id/pindah_datang/edit_pindah.php](https://dispendukcapil.surabaya.go.id/pindah_datang/edit_pindah.php)
 ### Description
+![Dispenduk](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%232%20Dispenduk/%232main.PNG)
 Pencatatan Pindah Keluar WNI is site that provides application service for changing citizenship ,
 maintenance by city goverment of Surabaya. Application service is implemented in two features,
 register for changing citizenship ,and modify registered application.Addition feature ,site can print registered proof.
 ### Bad UI Analysis and Design Proposal
 #### #Not look formal as formal institutin website
+![Dispenduk](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%232%20Dispenduk/%232main.PNG)
 When arrive in landing page,and focus in headbar ,we can see title
 of website with blue background,so we know what purpose of this website,and there name of institution in bottom of,that identified what institution which responsible. Tittle and name of institution is good enough to give information about what site for and who have, but it's not good enough to trust that this site is maintenance by goverment.
 
@@ -76,14 +81,17 @@ headbar color is blue,whereas menu color is brown ,two diffences color is not go
 `Change Headbar color and menu color to same color,or make minimum differences between them ,example : blue sky, and blue see.`
 
 #### #Number of registered data in menu
+![Dispenduk number](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%232%20Dispenduk/%232bad1.PNG)
+
 Placed number of registered in menu with same color too,make it users think 
 that it's part of menu,and triggered users to try click but no effect happen.
 
-`Placed number of registered in difference place with menu ,placed in top of menu with few space between them is good 
+`Place number of registered in difference place with menu ,place in top of menu with few space between them is good 
 enough,this solution if insitituion want to display every time. It's best if just located in landing page ,so useers just see
 one time ,at they first arrive.`
 
 #### #One place for register form ,and  its result
+![Dispenduk twin](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-0-rahmsofyan/master/Assigment%200/%232%20Dispenduk/%232bad2.PNG)
 Possibility,after success register, data will collect in table 
 bottom of registration form. It feel not too comfort to see table below of,
 bacuse table seem as form,but it's not.
