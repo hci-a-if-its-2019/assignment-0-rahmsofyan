@@ -57,6 +57,9 @@ When arrive in home page, users will welcome by greeting from institution and lo
 
 `Need separate page between public users and admin user. Public users are most number than admin user,so public must presidence over.Moreover login menu for admin placed in different website for public use.`
 
+### Demo
+[Link](https://drive.google.com/open?id=1FlJybTlPaPzU3ogBJC1zWf0l_TjiiW_H)
+
 
 ***
 ## 2.Pencatatan Pindah Keluar WNI
@@ -101,6 +104,9 @@ And button "simpan" in bottom of data collection table have grey almost black co
 
 `Change table of registered data into simple form like as a box that only have important data display to indicate what data is,
 and data will added after success registered,give edit function if user want to modify their data any time. Change color of button "simpan" to bright color ,like grey almost white.`
+
+### Demo
+[Link](https://drive.google.com/open?id=1bvKXZ2VoXikZOOZNhSqRsAAIIbP4RFq9)
 
 
 ***
@@ -165,3 +171,7 @@ antrian" but "masukan nomer antrian" ,"cari" close means to search somethings mi
 data. And "data antrian"/queue data is too general, is not exactly what need to insert.
 
 `Change "Cari" to "Input" ,it's maybe more proper meaning. And "Data" to "nomer or id" that exact meaning to make users light catch what site intention.`
+
+
+#### Demo
+[Link](https://drive.google.com/open?id=1RlYnPiSO-UVMNi2mjyD-fCmY7ubk0xnH)
