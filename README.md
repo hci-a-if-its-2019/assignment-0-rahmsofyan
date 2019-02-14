@@ -58,7 +58,7 @@ When arrive in home page, users will welcome by greeting from institution and lo
 `Need separate page between public users and admin user. Public users are most number than admin user,so public must presidence over.Moreover login menu for admin placed in different website for public use.`
 
 ### Demo
-[Link](https://drive.google.com/open?id=1FlJybTlPaPzU3ogBJC1zWf0l_TjiiW_H)
+[Link](https://drive.google.com/open?id=1RlYnPiSO-UVMNi2mjyD-fCmY7ubk0xnH)
 
 
 ***
@@ -174,4 +174,5 @@ data. And "data antrian"/queue data is too general, is not exactly what need to 
 
 
 #### Demo
-[Link](https://drive.google.com/open?id=1RlYnPiSO-UVMNi2mjyD-fCmY7ubk0xnH)
+[Link](https://drive.google.com/open?id=1FlJybTlPaPzU3ogBJC1zWf0l_TjiiW_H)
+
